@@ -1,1 +1,1 @@
-# job-app-ui-next-typescript
+## Job App Frontend UI made with Next.js (TypeScript)
